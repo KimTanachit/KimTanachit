@@ -27,4 +27,3 @@ I'm studying in the first year of bachelor's degreee.
 
 <a href="http://www.github.com/KimTanachit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KimTanachit&stroke=a855f7&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=a855f7&currStreakLabel=0891b2&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="https://github.com/KimTanachit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimTanachit&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
